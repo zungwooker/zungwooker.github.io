@@ -20,3 +20,11 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+sidebar-category:
+  - title: "Paper Review"
+    children:
+      - title: "Debiasing"
+        url: "/debiasing"
+      - title: "Test field"
+        url: "/test-field"
