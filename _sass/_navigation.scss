@@ -258,6 +258,13 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
+
+    @media (max-width: 600px) {
+      .left-item, .right-items {
+        position: static;
+        width: 100%;
+      }
+    }
   }
 
   .hidden-links {
