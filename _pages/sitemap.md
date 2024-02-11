@@ -3,6 +3,8 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
+sidebar:
+  nav: "sidebar-category"
 ---
 
 {% include base_path %}
