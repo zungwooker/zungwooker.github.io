@@ -1,15 +1,15 @@
 ---
 title: "[Paper Review] Revisiting the Importance of Amplifying Bias for Debiasing"
 date: 2024-02-18
-permalink: /Review/Revisiting-the-Importance-of-Amplifying-Bias-for-Debiasing/
+permalink: /posts/Revisiting-the-Importance-of-Amplifying-Bias-for-Debiasing/
 categories:
   - debiasing
 ---
+
 ## 3줄 요약
 1. Biased network가 충분히 편향되지 않아서 relative difficulty score를 만들기 불충분
 2. 보조 biased networks를 이용해서 biased network가 bias-aligned 샘플만 학습하게 만들자
 3. Biased network가 더욱 편향되어 debiasing에 더욱 잘 응용 가능
-
 ---
 
 ## Problem Statement
