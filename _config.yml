@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jungwook Seo | 서정욱"
+  name             : "Jungwook Seo<br>서 정 욱"
   avatar           : "profile.png"
-  bio              : "<i>What I cannot create,<br>I do not understand.<br>- Richard Feynman</i>"
+  bio              : "<i>What I cannot create,<br>    I do not understand.<br>- Richard Feynman</i>"
   location         : "Seoul, Hanyang Univ."
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
